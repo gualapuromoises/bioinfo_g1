@@ -9,9 +9,10 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Python
 - R
   - Tipos de datos
-  - Manipulaci{on de datos 
-  - Visualizaci{on de datos
-  - Estad{istica
+  - Manipulación de datos 
+  - Visualización de datos
+  - Estadística
+  - Modelamiento
 - Bioconductor
 
 
