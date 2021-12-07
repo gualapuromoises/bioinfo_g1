@@ -31,7 +31,7 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 
 ## INFORMACIÓN ADICIONAL
 
-<https://bioinfotraining.bio.cam.ac.uk/>
+- Página de la Univerdidad de Cambridge para entrenamiento en Bioinformática: <https://bioinfotraining.bio.cam.ac.uk/>
 
 
 
