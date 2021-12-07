@@ -15,6 +15,8 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Introducción
   - Moléculas biológicas
   - Bases de datos
+  - Biologia Marina 
+  - Veneno de Serpientes
 - Unix
   - Operador  
 - Git
@@ -28,6 +30,7 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 1. Evelyng Vasquez
 2. Joshue Ruiz 
 3. Lisbeth Alvarado
+4. Lidia Rosa Briñoles Villalva 
 
 ## INFORMACIÓN ADICIONAL
 
