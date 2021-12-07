@@ -8,6 +8,7 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Git
 - Python
 - R
+- Bioconductor
 
 
 ## VIDEOS DE SESIONES SINCRÓNICAS 
@@ -38,4 +39,8 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 
 
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit: 
+
+Emoticon de la mano :+1:
+
+
