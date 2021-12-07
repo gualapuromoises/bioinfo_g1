@@ -7,6 +7,10 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Unix
 - Git
 - Python
+  - Datos
+  - Funciones
+  - Data tabular
+  - Modelos 
 - R
   - Tipos de datos
   - Manipulación de datos
