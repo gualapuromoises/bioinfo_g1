@@ -26,7 +26,7 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 ## PARTICIPANTES
 
 1. Evelyng Vasquez
-2. Joshue Ruiz 
+2. Joshué Giovanni Ruiz Moreira 
 3. Lisbeth Alvarado
 
 ## INFORMACIÓN ADICIONAL
