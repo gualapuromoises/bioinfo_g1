@@ -1,5 +1,5 @@
 # BIOINFORMÁTICA GRUPO 1
-Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática. 
+Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática.
 
 ## PRESENTACIONES
 
@@ -9,14 +9,14 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Python
 - R
   - Tipos de datos
-  - Manipulación de datos 
+  - Manipulación de datos
   - Visualización de datos
   - Estadística
   - Modelamiento
 - Bioconductor
 
 
-## VIDEOS DE SESIONES SINCRÓNICAS 
+## VIDEOS DE SESIONES SINCRÓNICAS
 
 - Introducción
   - Moléculas biológicas
@@ -26,26 +26,24 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Git
 - Python
 - R
-  - Creación de diagramas 
+  - Creación de diagramas
 
 
 
 ## PARTICIPANTES
 
 1. Evelyng Vasquez
-2. Joshue Ruiz 
+2. Joshue Ruiz
 3. Lisbeth Alvarado
 4. Andrés Sebastian Calderón Velasco
 
 ## INFORMACIÓN ADICIONAL
 
-<https://bioinfotraining.bio.cam.ac.uk/>
+- Curso de la Univeridad de Cambridge en Bioinofrmática: <https://bioinfotraining.bio.cam.ac.uk/>
 - Curso de R para principiantes <https://www.youtube.com/watch?v=TexeDzmlQiY>
 
+- Curso de Python para principiantes <https://youtu.be/chPhlsHoEPo>
 
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit: 
 
-Emoticon de la mano :+1:
-
-
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
